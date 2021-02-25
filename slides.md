@@ -335,7 +335,10 @@
 
 -> # Closing
 
-##  Presentation: *github.com/snth/pyconza17*
+##  Presentation: 
+    *  Connect : *https://github.com/VinayManala/pymulticon21*
+
+
     <br>
       __________
     < Questions? >
@@ -345,5 +348,6 @@
                 (__)\       )\/\
                     ||----w |
                     ||     ||
+
 
 -------------------------------------------------------------------------------
